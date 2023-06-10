@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-kits.a CMakeFiles/vfb-kits.dir/vfb-kits.cpp.o
+/usr/bin/ranlib libvfb-kits.a
